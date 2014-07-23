@@ -1,4 +1,4 @@
-:x::o: Roman numerals
+Roman numerals
 =======================
 
 ### About
